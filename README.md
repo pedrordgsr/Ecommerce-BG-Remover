@@ -1,12 +1,13 @@
 # Removedor de fundos para ECOMMERCE
 
-Este é um projeto simples de script para remover o fundo de imagens de produtos e adequar para o padrão de fundo branco / 1200x1200
+Este é um projeto simples de script para remover o fundo de imagens de produtos e adequar para o padrão de fundo branco / 1200x1200.
 
+![Screenshot 2024-12-05 143617](https://github.com/user-attachments/assets/d2776824-5770-4715-b23c-7681e99da442)
 
 
 ## Para usuários Windows
 
-Basta executar o **Removedor de fundo.bat**, o programa irá checar se todas as dependências estão instaladas
+Basta executar o **Removedor de fundo.bat**, o programa irá checar se todas as dependências estão instaladas.
 
 ## MacOS / Linux
 
